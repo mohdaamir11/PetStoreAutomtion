@@ -1,5 +1,7 @@
 package api.payload;
 
+// POJO class - it has getters and setters
+
 public class User {
 
 	int id;
