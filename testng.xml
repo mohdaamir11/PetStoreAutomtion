@@ -10,8 +10,9 @@
 
   <test thread-count="5" name="PetTests">
     <classes>
-      <class name="api.test.UserTests"/>
+     <!-- <class name="api.test.UserTests"/>-->
      <!-- <class name="api.test.DDTests"/>-->
+     <class name="api.test.UserTests2"/>    <!--this is taking data from routes.properties file-->
     </classes>
   </test> <!-- PetTests -->
 </suite> <!-- PetSuite -->

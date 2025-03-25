@@ -9,13 +9,19 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">PetSuite</th></tr>
-<tr><td><a href="#t0">PetTests</a></td><td class="num">4</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">10,202</td><td></td><td></td></tr>
+<tr><td><a href="#t0">PetTests</a></td><td class="num">2</td><td class="num">0</td><td class="num">0</td><td class="num attn">2</td><td class="num">8,857</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">PetSuite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">PetTests &#8212; passed</th></tr><tr class="passedeven"><td rowspan="4">api.test.UserTests</td><td><a href="#m0">deleteUserByName</a></td><td rowspan="1">1741284960384</td><td rowspan="1">1185</td></tr><tr class="passedeven"><td><a href="#m1">testGetUserByName</a></td><td rowspan="1">1741284956540</td><td rowspan="1">1312</td></tr><tr class="passedeven"><td><a href="#m2">testPostUser</a></td><td rowspan="1">1741284952446</td><td rowspan="1">4062</td></tr><tr class="passedeven"><td><a href="#m3">updateUserByName</a></td><td rowspan="1">1741284957854</td><td rowspan="1">2528</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">PetSuite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">PetTests &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">api.test.UserTests2</td><td><a href="#m0">deleteUserByName</a></td><td rowspan="1">1741977008526</td><td rowspan="1">1250</td></tr><tr class="failedeven"><td><a href="#m1">testGetUserByName</a></td><td rowspan="1">1741977004975</td><td rowspan="1">1198</td></tr><tr><th colspan="4">PetTests &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">api.test.UserTests2</td><td><a href="#m2">testPostUser</a></td><td rowspan="1">1741977001925</td><td rowspan="1">3038</td></tr><tr class="passedeven"><td><a href="#m3">updateUserByName</a></td><td rowspan="1">1741977006179</td><td rowspan="1">2342</td></tr></tbody>
 </table>
-<h2>PetTests</h2><h3 id="m0">api.test.UserTests#deleteUserByName</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">api.test.UserTests#testGetUserByName</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">api.test.UserTests#testPostUser</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">api.test.UserTests#updateUserByName</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>PetTests</h2><h3 id="m0">api.test.UserTests2#deleteUserByName</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [200] but found [404]
+	at api.test.UserTests2.deleteUserByName(UserTests2.java:98)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+... Removed 32 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">api.test.UserTests2#testGetUserByName</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [200] but found [404]
+	at api.test.UserTests2.testGetUserByName(UserTests2.java:61)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+... Removed 32 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">api.test.UserTests2#testPostUser</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">api.test.UserTests2#updateUserByName</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

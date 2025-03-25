@@ -6,3 +6,43 @@
 2025-03-06 23:45:59 INFO  api.test.UserTests - *******************  user is updated **************
 2025-03-06 23:46:00 INFO  api.test.UserTests - ******************* deleting  user **************
 2025-03-06 23:46:01 INFO  api.test.UserTests - ******************* user deleted **************
+2025-03-14 23:41:20 INFO  api.test.UserTests - ******************* creation of user **************
+2025-03-14 23:41:23 INFO  api.test.UserTests - ******************* user is created **************
+2025-03-14 23:41:23 INFO  api.test.UserTests - ******************* reading user info **************
+2025-03-14 23:41:25 INFO  api.test.UserTests - ******************* user info is displayed **************
+2025-03-14 23:41:25 INFO  api.test.UserTests - ******************* updating  user **************
+2025-03-14 23:41:26 INFO  api.test.UserTests - *******************  user is updated **************
+2025-03-14 23:41:27 INFO  api.test.UserTests - ******************* deleting  user **************
+2025-03-14 23:41:28 INFO  api.test.UserTests - ******************* user deleted **************
+2025-03-15 00:00:01 INFO  api.test.UserTests2 - ******************* creation of user **************
+2025-03-15 00:00:04 INFO  api.test.UserTests2 - ******************* user is created **************
+2025-03-15 00:00:04 INFO  api.test.UserTests2 - ******************* reading user info **************
+2025-03-15 00:00:06 INFO  api.test.UserTests2 - ******************* updating  user **************
+2025-03-15 00:00:07 INFO  api.test.UserTests2 - *******************  user is updated **************
+2025-03-15 00:00:08 INFO  api.test.UserTests2 - ******************* deleting  user **************
+2025-03-15 00:07:42 INFO  api.test.UserTests2 - ******************* creation of user **************
+2025-03-15 00:07:45 INFO  api.test.UserTests2 - ******************* user is created **************
+2025-03-15 00:07:45 INFO  api.test.UserTests2 - ******************* reading user info **************
+2025-03-15 00:07:46 INFO  api.test.UserTests2 - ******************* user info is displayed **************
+2025-03-15 00:07:46 INFO  api.test.UserTests2 - ******************* updating  user **************
+2025-03-15 00:07:47 INFO  api.test.UserTests2 - *******************  user is updated **************
+2025-03-15 00:07:49 INFO  api.test.UserTests2 - ******************* deleting  user **************
+2025-03-15 00:12:35 INFO  api.test.UserTests2 - ******************* creation of user **************
+2025-03-15 00:12:38 INFO  api.test.UserTests2 - ******************* user is created **************
+2025-03-15 00:12:38 INFO  api.test.UserTests2 - ******************* reading user info **************
+2025-03-15 00:12:39 INFO  api.test.UserTests2 - ******************* user info is displayed **************
+2025-03-15 00:12:39 INFO  api.test.UserTests2 - ******************* updating  user **************
+2025-03-15 00:12:40 INFO  api.test.UserTests2 - *******************  user is updated **************
+2025-03-15 00:12:41 INFO  api.test.UserTests2 - ******************* deleting  user **************
+2025-03-15 00:18:08 INFO  api.test.UserTests2 - ******************* creation of user **************
+2025-03-15 00:18:11 INFO  api.test.UserTests2 - ******************* user is created **************
+2025-03-15 00:18:11 INFO  api.test.UserTests2 - ******************* reading user info **************
+2025-03-15 00:18:12 INFO  api.test.UserTests2 - ******************* updating  user **************
+2025-03-15 00:18:14 INFO  api.test.UserTests2 - *******************  user is updated **************
+2025-03-15 00:18:15 INFO  api.test.UserTests2 - ******************* deleting  user **************
+2025-03-25 15:08:44 INFO  api.test.UserTests2 - ******************* creation of user **************
+2025-03-25 15:08:47 INFO  api.test.UserTests2 - ******************* user is created **************
+2025-03-25 15:08:47 INFO  api.test.UserTests2 - ******************* reading user info **************
+2025-03-25 15:08:49 INFO  api.test.UserTests2 - ******************* updating  user **************
+2025-03-25 15:08:50 INFO  api.test.UserTests2 - *******************  user is updated **************
+2025-03-25 15:08:51 INFO  api.test.UserTests2 - ******************* deleting  user **************
